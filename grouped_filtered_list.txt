@@ -1,0 +1,284 @@
+Electronics:
+テレビ (terebi) television
+パソコン (pasokon) personal computer
+スマートフォン (sumātofon) smartphone
+カメラ (kamera) camera
+ラジオ (rajio) radio
+プリンター (purintā) printer
+ファックス (fakkusu) fax
+コピー (kopī) copy
+ラップトップ (rapputoppu) laptop
+デジタル (dejitaru) digital
+ソフトウェア (sofutowea) software
+ハードウェア (hādowea) hardware
+
+Time:
+セカンド (sekando) second
+ミニット (minitto) minute
+アワー (awā) hour
+ウィーク (wīku) week
+マンス (mansu) month
+センチュリー (senchurī) century
+シーズン (shīzun) season
+スプリング (supuringu) spring
+サマー (samā) summer
+オータム (ōtamu) autumn
+ウィンター (wintā) winter
+
+Events & Celebrations:
+ホリデー (horidē) holiday
+バケーション (bakēshon) vacation
+アニバーサリー (anibāsarī) anniversary
+パーティー (pātī) party
+フェスティバル (fesutibaru) festival
+セレブレーション (sereburēshon) celebration
+ウェディング (wedingu) wedding
+
+Work & Business:
+ワーク (wāku) work
+ジョブ (jobu) job
+ビジネス (bijinesu) business
+オフィス (ofisu) office
+ミーティング (mītingu) meeting
+プレゼンテーション (purezentēshon) presentation
+コンファレンス (konfarensu) conference
+デスク (desuku) desk
+チェア (chea) chair
+コンピューター (konpyūtā) computer
+ファイル (fairu) file
+フォルダー (forudā) folder
+ペーパー (pēpā) paper
+ペン (pen) pen
+ペンシル (penshiru) pencil
+マーカー (mākā) marker
+ノート (nōto) notebook
+カレンダー (karendā) calendar
+スケジュール (sukejūru) schedule
+アポイントメント (apointomento) appointment
+デッドライン (deddorain) deadline
+プロジェクト (purojekuto) project
+タスク (tasuku) task
+ゴール (gōru) goal
+ターゲット (tāgetto) target
+ストラテジー (sutoratejī) strategy
+プラン (puran) plan
+アイデア (aidea) idea
+ソリューション (soryūshon) solution
+イノベーション (inobēshon) innovation
+クリエイティブ (kurieitivu) creative
+ブレインストーミング (bureinsuōmingu) brainstorming
+フィードバック (fīdobakku) feedback
+レポート (repōto) report
+アナリシス (anarishisu) analysis
+リサーチ (risāchi) research
+マーケット (māketto) market
+セールス (sērusu) sales
+マーケティング (māketingu) marketing
+アドバタイジング (adobataijingu) advertising
+ブランド (burando) brand
+プロダクト (purodakuto) product
+サービス (sābisu) service
+クオリティー (kuoritī) quality
+パフォーマンス (pafōmansu) performance
+エフィシエンシー (efishienshī) efficiency
+マネジメント (manejimento) management
+リーダーシップ (rīdāshippu) leadership
+チームワーク (chīmuwāku) teamwork
+コミュニケーション (komyunikēshon) communication
+ネゴシエーション (negoshiēshon) negotiation
+スピーチ (supīchi) speech
+インタビュー (intabyū) interview
+リクルート (rikurūto) recruit
+トレーニング (torēningu) training
+エデュケーション (edyukēshon) education
+ラーニング (rāningu) learning
+スキル (sukiru) skill
+エクスペリエンス (ekusuperiensu) experience
+ナレッジ (narejji) knowledge
+インフォメーション (infomēshon) information
+データ (dēta) data
+テクノロジー (tekunorojī) technology
+
+Technology & Internet:
+ネットワーク (nettowāku) network
+セキュリティー (sekyuritī) security
+ウェブサイト (webusaito) website
+アプリケーション (apurikēshon) application
+プログラム (puroguramu) program
+プログラミング (puroguraming) programming
+コーディング (kōdingu) coding
+アルゴリズム (arugorizumu) algorithm
+デバッグ (debaggu) debug
+テスト (tesuto) test
+クオリティーアシュアランス (kuoritī ashuaransu) quality assurance
+ユーザーインターフェース (yūzā intāfēsu) user interface
+ユーザーエクスペリエンス (yūzā ekusuperiensu) user experience
+デザイン (dezain) design
+グラフィックス (gurafikku) graphics
+アニメーション (animēshon) animation
+ビデオ (bideo) video
+オーディオ (ōdio) audio
+マルチメディア (maruchimedia) multimedia
+ストリーミング (sutorīmingu) streaming
+クラウド (kuraudo) cloud
+ビッグデータ (biggu dēta) big data
+アーティフィシャルインテリジェンス (ātifisharu interijensu) artificial intelligence
+マシンラーニング (mashin rāningu) machine learning
+ブロックチェーン (burokkuchēn) blockchain
+クリプトカレンシー (kuriputo karenshī) cryptocurrency
+バーチャルリアリティー (bācharu riaritī) virtual reality
+オーグメンテッドリアリティー (ōgumenteddo riaritī) augmented reality
+ロボティクス (roboteikusu) robotics
+ドローン (dorōn) drone
+スマートホーム (sumāto hōmu) smart home
+インターネットオブシングス (intānetto obu shingusu) Internet of Things
+ウェアラブル (wearaburu) wearable
+サイバーセキュリティー (saibā sekyuritī) cybersecurity
+
+Travel:
+トラベル (toraberu) travel
+ツアー (tsuā) tour
+トリップ (torippu) trip
+パスポート (pasupōto) passport
+ビザ (biza) visa
+チケット (chiketto) ticket
+フライト (furaito) flight
+エアポート (eapōto) airport
+エアライン (earain) airline
+チェックイン (chekkuin) check-in
+ゲート (gēto) gate
+ボーディング (bōdingu) boarding
+ラゲージ (ragēji) luggage
+スーツケース (sūtsukēsu) suitcase
+バックパック (bakkupakku) backpack
+ホテル (hoteru) hotel
+リゾート (rizōto) resort
+ホステル (hosuteru) hostel
+リョカン (ryokan) traditional Japanese inn
+レストラン (resutoran) restaurant
+カフェ (kafe) cafe
+バー (bā) bar
+メニュー (menyū) menu
+レンタカー (rentakā) rental car
+タクシー (takushī) taxi
+バス (basu) bus
+トレイン (torein) train
+シンカンセン (shinkansen) bullet train
+サブウェイ (sabuwei) subway
+ステーション (sutēshon) station
+マップ (mappu) map
+ガイドブック (gaidobukku) guidebook
+ツアーガイド (tsuā gaido) tour guide
+トランスレーター (toransurētā) translator
+エクスチェンジ (ekusuchenji) currency exchange
+クレジットカード (kurejitto kādo) credit card
+キャッシュ (kyasshu) cash
+シティー (shitī) city
+タウン (taun) town
+ビレッジ (birejji) village
+ビーチ (bīchi) beach
+マウンテン (maunten) mountain
+リバー (ribā) river
+レイク (reiku) lake
+フォレスト (foresuto) forest
+パーク (pāku) park
+ミュージアム (myūjiamu) museum
+テンプル (tenpuru) temple
+シュライン (shurain) shrine
+キャッスル (kyassuru) castle
+ガーデン (gāden) garden
+アクアリウム (akuariumu) aquarium
+ズー (zū) zoo
+アミューズメントパーク (amyūzumento pāku) amusement park
+ショッピング (shoppingu) shopping
+スーベニア (sūbenia) souvenir
+ギフト (gifuto) gift
+フォト (foto) photo
+チャージャー (chājā) charger
+アダプター (adaputā) adapter
+ヘルプ (herupu) help
+エマージェンシー (emājenshī) emergency
+ホスピタル (hosupitaru) hospital
+ファーストエイド (fāsuto eido) first aid
+インシュアランス (inshuaransu) insurance
+
+Fruits:
+フルーツ (furūtsu) fruits
+アップル (appuru) apple
+バナナ (banana) banana
+オレンジ (orenji) orange
+レモン (remon) lemon
+ライム (raimu) lime
+グレープ (gurēpu) grape
+ストロベリー (sutoroberī) strawberry
+ブルーベリー (burūberī) blueberry
+ラズベリー (razuberī) raspberry
+ブラックベリー (burakkuberī) blackberry
+チェリー (cherī) cherry
+ピーチ (pīchi) peach
+プラム (puramu) plum
+アプリコット (apurikotto) apricot
+パイナップル (painappuru) pineapple
+マンゴー (mangō) mango
+パパイヤ (papaiya) papaya
+キウイ (kiui) kiwi
+メロン (meron) melon
+スイカ (suika) watermelon
+カンタロープ (kantarōpu) cantaloupe
+フィグ (figu) fig
+ザクロ (zakuro) pomegranate
+パッションフルーツ (passhon furūtsu) passion fruit
+ライチ (raichi) lychee
+ドラゴンフルーツ (doragon furūtsu) dragon fruit
+グァバ (guaba) guava
+スターフルーツ (sutā furūtsu) star fruit
+ココナッツ (kokonattsu) coconut
+アボカド (abokado) avocado
+オリーブ (orību) olive
+ナツメヤシ (natsumeyashi) date
+
+7-Eleven:
+コンビニ (konbini) convenience store
+セブンイレブン (sebun irebun) 7-Eleven
+おにぎり (onigiri) rice ball
+サンドイッチ (sandoitchi) sandwich
+弁当 (bentō) boxed lunch
+サラダ (sarada) salad
+コーヒー (kōhī) coffee
+紅茶 (kōcha) black tea
+緑茶 (ryokucha) green tea
+ジュース (jūsu) juice
+お菓子 (okashi) snacks
+アイスクリーム (aisukurīmu) ice cream
+雑誌 (zasshi) magazine
+タバコ (tabako) cigarettes (if applicable, be mindful of smoking regulations)
+ATM (ē tī emu) ATM
+コピー機 (kopīki) copy machine
+
+Food:
+ラーメン (rāmen) ramen
+パスタ (pasuta) pasta
+カレー (karē) curry rice
+ハンバーガー (hanbāgā) hamburger
+ホットドッグ (hottodoggu) hot dog
+ピザ (piza) pizza
+サンドイッチ (sandoitchi) sandwich
+サラダ (sarada) salad
+ステーキ (sutēki) steak
+オムライス (omuraisu) omurice (omelette filled with fried rice)
+グラタン (guratan) gratin
+シチュー (shichū) stew
+スープ (sūpu) soup
+パン (pan) bread
+アイスクリーム (aisukurīmu) ice cream
+ケーキ (kēki) cake
+クッキー (kukkī) cookie
+チョコレート (chokorēto) chocolate
+キャンディー (kyandī) candy
+コーラ (kōra) cola
+ジュース (jūsu) juice
+ビール (bīru) beer
+ワイン (wain) wine
+コーヒー (kōhī) coffee
+紅茶 (kōcha) black tea
+メニュー (menyū) menu
